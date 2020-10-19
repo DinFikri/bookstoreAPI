@@ -1,0 +1,14 @@
+{
+  "bookStores": [
+    {
+      "id": 1,
+      "name": " gredenian",
+      "address": "jln Tikus",
+      "phoneNumber": "08075987654",
+      "email": "gradenia@bookstore.com",
+      "website": "gradeniabooks.com",
+      "instagram": "@gradeniaIndo"
+    }
+  ],
+  "books": []
+}
